@@ -1,0 +1,16 @@
+{
+  "name": "simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "awesome-phonenumber": "^2.28.0",
+    "bluebird": "3.7.*",
+    "lodash": "4.17.*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
